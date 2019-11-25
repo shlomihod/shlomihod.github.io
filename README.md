@@ -3,7 +3,7 @@
 <div class="contact">
     <small>he/him/his</small>
     <br />
-    <i class="fas fa-envelope"></i> shlomi &lt;AT&gt; uni-potsdam &lt;DOT&gt; de
+    <i class="fas fa-envelope"></i> shlomi &lt;AT&gt; bu &lt;DOT&gt; edu
     <br />
     <a href="https://www.linkedin.com/in/shlomi-hod/"><i class="fab fa-linkedin"></i></a>
     <a href="https://github.com/shlomihod"><i class="fab fa-github"></i></a>
