@@ -69,4 +69,3 @@ plugins:
   # - jemoji
   - jekyll-readme-index
 
-theme: jekyll-theme-cayman
