@@ -9,15 +9,15 @@
     <a href="https://github.com/shlomihod"><i class="fab fa-github"></i></a>
 </div>
 
-I'm an incoming CS PhD student at Boston University being supervised by [Prof. Ran Canetti](http://www.bu.edu/cs/profiles/ran-canetti/).
+I'm a first-year CS Ph.D. student at Boston University, being supervised by [Prof. Ran Canetti](http://www.bu.edu/cs/profiles/ran-canetti/).
 
 I'm interested in **responsible AI**, particularly:
-1. Bias, fairness and societal impact of algorithms and machine learning systems
+1. Societal impact of algorithms and machine learning systems, mainly through long-term and scale-up lenses
 2. Interpretable machine learning
 
-In summer 2019 I did a reseach internship at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley, working on neural network interpretability. 
+In summer 2019, I did a research internship at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley, working on neural network interpretability. 
 
-Occasionally, I'm consulting to startups and companies with data science projects.
+Occasionally, I'm consulting for startups and companies with data science projects.
 
-In my previous life I was a social entrepreneur - co-founder of the [Israeli Cyber Education Center](https://cyber.org.il/about-us-eng/). There I led the development of nationwide educational programs in computing for kids and teens. The center aims to increase the social mobility of underrepresented groups in tech, such as women, minorities, and individuals from the suburbs of Israel. I co-authored a [Computer Network textbook](https://data.cyber.org.il/networks/networks.pdf) in tutorial approach (in Hebrew).  
-Before that I was an algorithmic research team leader in cybersecurity.
+In my previous life, I was a social entrepreneur - co-founder of the [Israeli Cyber Education Center](https://cyber.org.il/about-us-eng/). There I led the development of nationwide educational programs in computing for kids and teens. The center aims to increase the social mobility of underrepresented groups in tech, such as women, minorities, and individuals from the suburbs of Israel. I co-authored a [Computer Network textbook](https://data.cyber.org.il/networks/networks.pdf) in a tutorial approach (in Hebrew).  
+Before that, I was an algorithmic research team leader in cybersecurity.
