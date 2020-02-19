@@ -7,6 +7,8 @@
     <br />
     <a href="https://www.linkedin.com/in/shlomi-hod/"><i class="fab fa-linkedin"></i></a>
     <a href="https://github.com/shlomihod"><i class="fab fa-github"></i></a>
+    <br />
+    <small><a href="https://www.admonymous.co/shlomi">(Anonymous) feedback welcome.</a></small>
 </div>
 
 I'm a first-year CS Ph.D. student at Boston University, being supervised by [Prof. Ran Canetti](http://www.bu.edu/cs/profiles/ran-canetti/).
