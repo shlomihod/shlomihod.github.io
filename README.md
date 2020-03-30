@@ -3,10 +3,11 @@
 <div class="contact">
     <small>he/him/his</small>
     <br />
-    <i class="fas fa-envelope"></i> shlomi &lt;AT&gt; bu &lt;DOT&gt; edu
+    <i class="fas fa-envelope fa-2x"></i> shlomi &lt;AT&gt; bu &lt;DOT&gt; edu
     <br />
-    <a href="https://www.linkedin.com/in/shlomi-hod/"><i class="fab fa-linkedin"></i></a>
-    <a href="https://github.com/shlomihod"><i class="fab fa-github"></i></a>
+    <a href="https://scholar.google.com/citations?user=s_WPt74AAAAJ"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+    <a href="https://www.linkedin.com/in/shlomi-hod/"><i class="fab fa-linkedin fa-2x"></i></a>
+    <a href="https://github.com/shlomihod"><i class="fab fa-github fa-2x"></i></a>
     <br />
     <small><a href="https://www.admonymous.co/shlomi">(Anonymous) feedback welcome.</a></small>
 </div>
@@ -23,3 +24,8 @@ Occasionally, I'm consulting for startups and companies with data science projec
 
 In my previous life, I was a social entrepreneur - co-founder of the [Israeli Cyber Education Center](https://cyber.org.il/about-us-eng/). There I led the development of nationwide educational programs in computing for kids and teens. The center aims to increase the social mobility of underrepresented groups in tech, such as women, minorities, and individuals from the suburbs of Israel. I co-authored a [Computer Network textbook](https://data.cyber.org.il/networks/networks.pdf) in a tutorial approach (in Hebrew).  
 Before that, I was an algorithmic research team leader in cybersecurity.
+
+
+## Publications
+
+Filan, D., Hod, S., Wild, C., Critch, A., & Russell, S. (2020). [Neural Networks are Surprisingly Modular](https://arxiv.org/abs/2003.04881). arXiv preprint arXiv:2003.04881.
