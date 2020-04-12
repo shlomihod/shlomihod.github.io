@@ -28,4 +28,5 @@ Before that, I was an algorithmic research team leader in cybersecurity.
 
 ## Publications
 
-Filan, D., Hod, S., Wild, C., Critch, A., & Russell, S. (2020). [Neural Networks are Surprisingly Modular](https://arxiv.org/abs/2003.04881). arXiv preprint arXiv:2003.04881.
+\*Daniel Filan, **\*Shlomi Hod**, Cody Wild, Andrew Critch, and Stuart Russell. ["Neural Networks are Surprisingly Modular."](https://arxiv.org/abs/2003.04881) arXiv preprint arXiv:2003.04881 (2020).
+
