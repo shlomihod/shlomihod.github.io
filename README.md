@@ -18,6 +18,8 @@ I'm interested in **responsible AI**, particularly:
 1. Societal impact of algorithms and machine learning systems, mainly through long-term and scale-up lenses
 2. Interpretable machine learning
 
+I am spending this summer (2020) as visiting researcher at the [Alexander von Humboldt Institute for Internet and Society (HIIG)](https://www.hiig.de/en/) in Berlin.
+
 In summer 2019, I did a research internship at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley, working on neural network interpretability. 
 
 Occasionally, I'm consulting for startups and companies with data science projects.
