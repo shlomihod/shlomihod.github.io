@@ -18,11 +18,9 @@ I'm interested in **responsible AI**, particularly:
 1. Societal impact of algorithms and machine learning systems, mainly through long-term and scale-up lenses
 2. Interpretable machine learning
 
-I am spending this summer (2020) as visiting researcher at the [Alexander von Humboldt Institute for Internet and Society (HIIG)](https://www.hiig.de/en/) in Berlin.
+I am spending this summer (2020) as visiting researcher at the [Alexander von Humboldt Institute for Internet and Society (HIIG)](https://www.hiig.de/en/) in Berlin. In summer 2019, I did a research internship at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley, working on neural network interpretability. 
 
-In summer 2019, I did a research internship at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley, working on neural network interpretability. 
-
-Occasionally, I'm consulting for startups and companies with data science projects.
+I taught courses in [Responsible AI, Law & Society](https://learn.responsibly.ai/law-society/) and [Problem Solving using Python](https://problemsolving.io/). Occasionally, I'm consulting for startups and companies with data science projects.
 
 In my previous life, I was a social entrepreneur - co-founder of the [Israeli Cyber Education Center](https://cyber.org.il/about-us-eng/). There I led the development of nationwide educational programs in computing for kids and teens. The center aims to increase the social mobility of underrepresented groups in tech, such as women, minorities, and individuals from the suburbs of Israel. I co-authored a [Computer Network textbook](https://data.cyber.org.il/networks/networks.pdf) in a tutorial approach (in Hebrew).  
 Before that, I was an algorithmic research team leader in cybersecurity.
