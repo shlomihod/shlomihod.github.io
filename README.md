@@ -18,7 +18,7 @@ I'm interested in **responsible AI**, particularly:
 1. Societal impact of algorithms and machine learning systems, mainly through long-term and scale-up lenses
 2. Interpretable machine learning
 
-I am spending this summer (2020) as visiting researcher at the [Alexander von Humboldt Institute for Internet and Society (HIIG)](https://www.hiig.de/en/) in Berlin. In summer 2019, I did a research internship at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley, working on neural network interpretability. 
+I spent the last summer (2020) as a visiting researcher at the [Alexander von Humboldt Institute for Internet and Society (HIIG)](https://www.hiig.de/en/) in Berlin. In summer 2019, I did a research internship at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley, working on neural network interpretability. 
 
 I taught courses in [Responsible AI, Law & Society](https://learn.responsibly.ai/) and [Problem Solving using Python](https://problemsolving.io/). Occasionally, I'm consulting for startups and companies with data science projects.
 
@@ -27,6 +27,10 @@ Before that, I was an algorithmic research team leader in cybersecurity.
 
 
 ## Publications
+
+\*Gavin Brown, **\*Shlomi Hod**, \*Iden Kalemaj. ["Performative Prediction in a Stateful World."](https://arxiv.org/abs/2011.03885) Workshop on Consequential Decision Making
+in Dynamic Environments (NeurIPS 2020).
+
 
 \*Daniel Filan, **\*Shlomi Hod**, Cody Wild, Andrew Critch, and Stuart Russell. ["Neural Networks are Surprisingly Modular."](https://arxiv.org/abs/2003.04881) arXiv preprint arXiv:2003.04881 (2020).
 
