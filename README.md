@@ -28,7 +28,7 @@ Before that, I was an algorithmic research team leader in cybersecurity.
 
 ## Publications
 
-\*Gavin Brown, **\*Shlomi Hod**, \*Iden Kalemaj. ["Performative Prediction in a Stateful World."](https://arxiv.org/abs/2011.03885) Workshop on Consequential Decision Making
+\*Gavin Brown, **\*Shlomi Hod**, \*Iden Kalemaj. ["Performative Prediction in a Stateful World."](https://arxiv.org/abs/2011.03885) To appear with *contributed talk* at Workshop on Consequential Decision Making
 in Dynamic Environments (NeurIPS 2020).
 
 
