@@ -12,17 +12,17 @@
     <small><a href="https://www.admonymous.co/shlomi">(Anonymous) feedback welcome.</a></small>
 </div>
 
-I'm a first-year CS Ph.D. student at Boston University, being supervised by [Prof. Ran Canetti](http://www.bu.edu/cs/profiles/ran-canetti/).
+I'm a second-year CS Ph.D. student at Boston University, being supervised by [Prof. Ran Canetti](http://www.bu.edu/cs/profiles/ran-canetti/). 
 
 I'm interested in **responsible AI**, particularly:
 1. Societal impact of algorithms and machine learning systems, mainly through long-term and scale-up lenses
 2. Interpretable machine learning
 
-I spent the last summer (2020) as a visiting researcher at the [Alexander von Humboldt Institute for Internet and Society (HIIG)](https://www.hiig.de/en/) in Berlin. In summer 2019, I did a research internship at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley, working on neural network interpretability. 
+I'm also an Associated Researcher at the [Alexander von Humboldt Institute for Internet and Society (HIIG)](https://www.hiig.de/en/) in Berlin. In summer 2019, I did a research internship at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley, working on neural network interpretability. 
 
-I taught courses in [Responsible AI, Law & Society](https://learn.responsibly.ai/) and [Problem Solving using Python](https://problemsolving.io/). Occasionally, I'm consulting for startups and companies with data science projects.
+I taught courses in [Responsible AI, Law, Ethisc & Society](https://learn.responsibly.ai/). Occasionally, I'm consulting for startups and companies with data science projects.
 
-In my previous life, I was a social entrepreneur - co-founder of the [Israeli Cyber Education Center](https://cyber.org.il/about-us-eng/). There I led the development of nationwide educational programs in computing for kids and teens. The center aims to increase the social mobility of underrepresented groups in tech, such as women, minorities, and individuals from the suburbs of Israel. I co-authored a [Computer Network textbook](https://data.cyber.org.il/networks/networks.pdf) in a tutorial approach (in Hebrew).  
+In my previous life, I was a social entrepreneur - co-founder of the [Israeli Cyber Education Center](https://cyber.org.il/about-us-eng/). There I led the development of nationwide educational programs in computing for kids and teens. The center aims to increase the social mobility of underrepresented groups in tech, such as women, minorities, and individuals from the suburbs of Israel. I co-authored a [Computer Network textbook](https://data.cyber.org.il/networks/networks.pdf) in a tutorial approach (in Hebrew).  I taught also a new academic course on [Problem Solving using Python](https://problemsolving.io/).
 Before that, I was an algorithmic research team leader in cybersecurity.
 
 
