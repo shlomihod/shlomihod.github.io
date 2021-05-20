@@ -28,7 +28,7 @@ Before that, I was an algorithmic research team leader in cybersecurity.
 
 ## Publications
 
-**Shlomi Hod**, Karni Chagal-Feferkorn, Niva Elkin-Koren and Avigdor Gal. "Data Science Meets Law: Learning Responsible AI Together". *Under review* to the Communications of the ACM (2021).
+**Shlomi Hod**, Karni Chagal-Feferkorn, Niva Elkin-Koren and Avigdor Gal. "Data Science Meets Law: Learning Responsible AI Together". *To be appeared* in the Communications of the ACM (2021).
 
 \*Daniel Filan, \*Stephen Casper, **\*Shlomi Hod**, Cody Wild, Andrew Critch, and Stuart Russell. ["Clusterability in Neural Networks."](https://arxiv.org/abs/2103.03386) arXiv preprint arXiv:2103.03386 (2021).
 
