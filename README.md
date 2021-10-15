@@ -12,14 +12,14 @@
     <small><a href="https://www.admonymous.co/shlomi">(Anonymous) feedback welcome.</a></small>
 </div>
 
-**I'm looking for an intern position as Responsible AI researcher/data scientist (e.g., fairness, interpretability, privacy) for summer 2022.**
+**I'm looking for an intern position as Responsible AI researcher/data scientist (e.g., fairness, interpretability, privacy) for summer 2022. Please reach out!**
 
 I'm a second-year CS Ph.D. student at Boston University, being supervised by [Prof. Ran Canetti](http://www.bu.edu/cs/profiles/ran-canetti/). 
 
 I'm interested in **Responsible AI**, particularly:
 1. Societal impact of algorithms and machine learning systems
 2. Interpretable machine learning
-3. Differentially private synthetic data in goverments
+3. Differentially private synthetic data for government data
 
 I'm also an Associated Researcher at the [Alexander von Humboldt Institute for Internet and Society (HIIG)](https://www.hiig.de/en/) in Berlin. In summer 2019, I did a research internship at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley, working on neural network interpretability. 
 
