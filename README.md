@@ -31,6 +31,8 @@ Before that, I was an algorithmic research team leader in cybersecurity.
 
 ## Publications
 
+**\*Shlomi Hod**, \*Stephen Casper, \*Daniel Filan, Cody Wild, Andrew Critch and Stuart Russell. ["Detecting Modularity in Deep Neural Networks."](https://arxiv.org/abs/2110.08058) arXiv preprint arXiv:2110.08058 (2021).
+
 **Shlomi Hod**, Karni Chagal-Feferkorn, Niva Elkin-Koren and Avigdor Gal. "Data Science Meets Law: Learning Responsible AI Together". *To be appeared* in the Communications of the ACM (2021).
 
 \*Daniel Filan, \*Stephen Casper, **\*Shlomi Hod**, Cody Wild, Andrew Critch, and Stuart Russell. ["Clusterability in Neural Networks."](https://arxiv.org/abs/2103.03386) arXiv preprint arXiv:2103.03386 (2021).
