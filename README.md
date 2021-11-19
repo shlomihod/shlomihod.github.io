@@ -14,6 +14,11 @@
 
 **I'm looking for an intern position as Responsible AI researcher/data scientist (e.g., fairness, interpretability, privacy) for summer 2022. Please reach out!**
 
+<br/>
+
+**Do you teach Responsible AI? Join to our workshop on Jan 10, 2022, at Tel-Aviv University [\[link\]](https://idsi.net.technion.ac.il/teaching-learning-responsible-ai/)!**
+
+
 I'm a second-year CS Ph.D. student at Boston University, being supervised by [Prof. Ran Canetti](http://www.bu.edu/cs/profiles/ran-canetti/). 
 
 I'm interested in **Responsible AI**, particularly:
