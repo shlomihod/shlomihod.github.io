@@ -7,10 +7,8 @@
     <br />
     <a href="https://scholar.google.com/citations?user=s_WPt74AAAAJ"><i class="ai ai-google-scholar-square ai-2x"></i></a>
     <a href="https://www.linkedin.com/in/shlomi-hod/"><i class="fab fa-linkedin fa-2x"></i></a>
-    <a href="https://github.com/shlomihod"><i class="fab fa-github fa-2x"></i></a>
-    <br />
 	<a href="https://docs.google.com/document/d/1uiffusO9ai9fXdVEk9T2KP84AT6mVcM-OPJj_7dnS4Q/edit?usp=sharing
-"><span style="font-family:'Passion One'">CV</span></a>
+"><span style="font-size: xx-large; font-family:'Passion One'">CV</span></a>
     <a href="https://github.com/shlomihod"><i class="fab fa-github fa-2x"></i></a>
     <br />
     <small><a href="https://www.admonymous.co/shlomi">(Anonymous) feedback welcome.</a></small>
@@ -34,7 +32,7 @@ I'm interested in **Responsible AI**, particularly:
 
 I'm also an Associated Researcher at the [Alexander von Humboldt Institute for Internet and Society (HIIG)](https://www.hiig.de/en/) in Berlin. In summer 2019, I did a research internship at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley, working on neural network interpretability. 
 
-For the last years, I teach courses in [Responsible AI, Law, Ethics & Society](https://learn.responsibly.ai/) in various institutes including Boston University, Cornell Tech, Tel Aviv University and the Technion. Our materials are available for faculty [here](https://teach.responsibly.ai/).(https://teach.responsibly.ai/). Occasionally, I'm consulting for startups and companies with data science projects.
+For the last years, I teach courses in [Responsible AI, Law, Ethics & Society](https://learn.responsibly.ai/) in various institutes including Boston University, Cornell Tech, Tel Aviv University and the Technion. Our materials are available for faculty [here](https://teach.responsibly.ai/).
 
 In my previous life, I was a social entrepreneur - co-founder of the [Israeli Cyber Education Center](https://cyber.org.il/about-us-eng/). There I led the development of nationwide educational programs in computing for kids and teens. The center aims to increase the social mobility of underrepresented groups in tech, such as women, minorities, and individuals from the suburbs of Israel. I co-authored a [Computer Network textbook](https://data.cyber.org.il/networks/networks.pdf) in a tutorial approach (in Hebrew).  I taught also a new academic course on [Problem Solving using Python](https://problemsolving.io/).
 Before that, I was an algorithmic research team leader in cybersecurity.
