@@ -6,7 +6,6 @@
     <i class="fas fa-envelope fa-2x"></i> shlomi &lt;AT&gt; bu &lt;DOT&gt; edu
     <br />
     <a href="https://www.semanticscholar.org/author/1557572573"><i class="ai ai-semantic-scholar-square ai-2x"></i></a>
-    <br />
     <a href="https://scholar.google.com/citations?user=s_WPt74AAAAJ"><i class="ai ai-google-scholar-square ai-2x"></i></a>
     <a href="https://www.linkedin.com/in/shlomi-hod/"><i class="fab fa-linkedin fa-2x"></i></a>
 	<a href="https://docs.google.com/document/d/1uiffusO9ai9fXdVEk9T2KP84AT6mVcM-OPJj_7dnS4Q/edit?usp=sharing
