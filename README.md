@@ -15,10 +15,6 @@
     <small><a href="https://www.admonymous.co/shlomi">(Anonymous) feedback welcome.</a></small>
 </div>
 
-
-
-**I'm looking for an intern position as Responsible AI researcher/data scientist (e.g., fairness, interpretability, privacy) for summer 2022. Please reach out!**
-
 <br/>
 
 **Do you teach Responsible AI? Join to our workshop on May 16, 2022, at Tel-Aviv University [\[link\]](https://idsi.net.technion.ac.il/teaching-learning-responsible-ai/)!**
