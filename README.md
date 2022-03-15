@@ -5,7 +5,7 @@
     <br />
     <i class="fas fa-envelope fa-2x"></i> shlomi &lt;AT&gt; bu &lt;DOT&gt; edu
     <br />
-    <a href="https://twitter.com/hodthoughts"><i class="fa fa-twitter fa-2x"></i>@hodthoughts</a>
+    <a href="https://twitter.com/hodthoughts"><i class="fab fa-twitter fa-2x"></i>@hodthoughts</a>
     <br />
     <a href="https://www.semanticscholar.org/author/1557572573"><i class="ai ai-semantic-scholar-square ai-2x"></i></a>
     <a href="https://scholar.google.com/citations?user=s_WPt74AAAAJ"><i class="ai ai-google-scholar-square ai-2x"></i></a>
