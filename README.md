@@ -19,10 +19,8 @@
 
 <br/>
 
-**Do you teach Responsible AI? Join to our workshop on May 16, 2022, at Tel-Aviv University [\[link\]](https://idsi.net.technion.ac.il/teaching-learning-responsible-ai/)!**
 
-
-I'm a second-year CS Ph.D. student at Boston University, being supervised by [Prof. Ran Canetti](http://www.bu.edu/cs/profiles/ran-canetti/). 
+I'm a third-year CS Ph.D. student at Boston University, being supervised by [Prof. Ran Canetti](http://www.bu.edu/cs/profiles/ran-canetti/). 
 
 I'm interested in **Responsible AI**, particularly:
 1. Societal impact of algorithms and machine learning systems
