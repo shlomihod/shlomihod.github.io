@@ -10,7 +10,7 @@
     <a href="https://www.semanticscholar.org/author/1557572573"><i class="ai ai-semantic-scholar-square ai-2x"></i></a>
     <a href="https://scholar.google.com/citations?user=s_WPt74AAAAJ"><i class="ai ai-google-scholar-square ai-2x"></i></a>
     <a href="https://www.linkedin.com/in/shlomi-hod/"><i class="fab fa-linkedin fa-2x"></i></a>
-	<a href="https://docs.google.com/document/d/1uiffusO9ai9fXdVEk9T2KP84AT6mVcM-OPJj_7dnS4Q/edit?usp=sharing
+	<a href="https://docs.google.com/document/d/1Sh9yne7wuqaQpLoPifx_fk_nhhr0KmFcGegWU4bdtII/edit?usp=sharing
 "><span style="font-size: xx-large; font-family:'Passion One'">CV</span></a>
     <a href="https://github.com/shlomihod"><i class="fab fa-github fa-2x"></i></a>
     <br />
@@ -27,7 +27,7 @@ I'm interested in **Responsible AI**, particularly:
 2. Interpretable machine learning
 3. Differentially private synthetic data for government data
 
-I'm also an Associated Researcher at the [Alexander von Humboldt Institute for Internet and Society (HIIG)](https://www.hiig.de/en/) in Berlin. In summer 2019, I did a research internship at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley, working on neural network interpretability. 
+I'm also an Associated Researcher at the [Alexander von Humboldt Institute for Internet and Society (HIIG)](https://www.hiig.de/en/) in Berlin. Last summer I interened at Twitter Cortex where I leverged human-in-the-loop research to improve toxicity models. In summer 2019, I did a research internship at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley, working on neural network interpretability. 
 
 For the last years, I teach courses in [Responsible AI, Law, Ethics & Society](https://learn.responsibly.ai/) in various institutes including Boston University, Cornell Tech, Tel Aviv University and the Technion. Our materials are available for faculty [here](https://teach.responsibly.ai/).
 
