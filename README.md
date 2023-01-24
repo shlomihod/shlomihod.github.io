@@ -14,7 +14,7 @@
 "><span style="font-size: xx-large; font-family:'Passion One'">CV</span></a>
     <a href="https://github.com/shlomihod"><i class="fab fa-github fa-2x"></i></a>
     <br />
-    <small><a href="https://go.hod.xyz/office-hour">Book Office Hour</a></small>
+    <small><a href="https://go.hod.xyz/office-hour">Book Office Hours</a></small>
     <br />
     <small><a href="https://www.admonymous.co/shlomi">(Anonymous) feedback welcome</a></small>
 </div>
