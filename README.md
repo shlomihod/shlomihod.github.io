@@ -22,16 +22,16 @@
 <br/>
 
 
-I'm a third-year CS Ph.D. student at Boston University, being supervised by [Prof. Ran Canetti](http://www.bu.edu/cs/profiles/ran-canetti/). 
+I'm a fourth-year CS Ph.D. student at Boston University, being supervised by [Prof. Ran Canetti](http://www.bu.edu/cs/profiles/ran-canetti/).
 
 I'm interested in **Responsible AI**, particularly:
-1. Societal impact of algorithms and machine learning systems
-2. Interpretable machine learning
-3. Differentially private synthetic data for government data
+1. Differentially private synthetic data for government data
+1. The interaction between Computer Science and the Law
+1. Interpretable machine learning
 
-I'm also an Associated Researcher at the [Alexander von Humboldt Institute for Internet and Society (HIIG)](https://www.hiig.de/en/) in Berlin. Last summer I interened at Twitter Cortex where I leverged human-in-the-loop research to improve toxicity models. In summer 2019, I did a research internship at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley, working on neural network interpretability. 
+Last summer I interened at Twitter Cortex where I leverged human-in-the-loop research to improve toxicity models. In 2020-2021, I was an Associated Researcher at the [Alexander von Humboldt Institute for Internet and Society (HIIG)](https://www.hiig.de/en/) in Berlin. In summer 2019, I did a research internship at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley, working on neural network interpretability. 
 
-For the last years, I teach courses in [Responsible AI, Law, Ethics & Society](https://learn.responsibly.ai/) in various institutes including Boston University, Cornell Tech, Tel Aviv University and the Technion. Our materials are available for faculty [here](https://teach.responsibly.ai/).
+For the last years, I teach courses in [Responsible AI, Law, Ethics & Society](https://learn.responsibly.ai/) in various institutes including Boston University, Cornell Tech, Bocconi University, Tel Aviv University and the Technion. Our materials are available for faculty [here](https://teach.responsibly.ai/).
 
 In my previous life, I was a social entrepreneur - co-founder of the [Israeli Cyber Education Center](https://cyber.org.il/about-us-eng/). There I led the development of nationwide educational programs in computing for kids and teens. The center aims to increase the social mobility of underrepresented groups in tech, such as women, minorities, and individuals from the suburbs of Israel. I co-authored a [Computer Network textbook](https://data.cyber.org.il/networks/networks.pdf) in a tutorial approach (in Hebrew).  I taught also a new academic course on [Problem Solving using Python](https://problemsolving.io/).
 Before that, I was an algorithmic research team leader in cybersecurity.
