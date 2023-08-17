@@ -21,6 +21,8 @@
 
 <br/>
 
+**During the '23-'24 academic year, I'll be visiting Columbia University to work with Prof. [Rachel Cummings](https://rachelcummings.com).**
+
 
 I'm a fourth-year CS Ph.D. student at Boston University, being supervised by [Prof. Ran Canetti](http://www.bu.edu/cs/profiles/ran-canetti/).
 
