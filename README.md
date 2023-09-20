@@ -43,7 +43,7 @@ Before that, I was an algorithmic research team leader in cybersecurity.
 
 **Shlomi Hod**, Karni Chagal-Feferkorn, Niva Elkin-Koren and Avigdor Gal. ["Data Science Meets Law: Learning Responsible AI Together"](https://cacm.acm.org/magazines/2022/2/258224-data-science-meets-law/fulltext/). Communications of the ACM (2022). Featured on the journal cover.
 
-\*Gavin Brown, **\*Shlomi Hod**, \*Iden Kalemaj. ["Performative Prediction in a Stateful World"](https://arxiv.org/abs/2011.03885). International Conference on Artificial Intelligence and Statistics - AISTATS(2022). Preliminary version at NeurIPS Workshop on Consequential Decision Making in Dynamic Environments, with contributed talk  (2020).
+\*Gavin Brown, **\*Shlomi Hod**, \*Iden Kalemaj. ["Performative Prediction in a Stateful World"](https://arxiv.org/abs/2011.03885). International Conference on Artificial Intelligence and Statistics - AISTATS (2022). Preliminary version at NeurIPS Workshop on Consequential Decision Making in Dynamic Environments, with contributed talk  (2020).
 
 **\*Shlomi Hod**, \*Stephen Casper, \*Daniel Filan, Cody Wild, Andrew Critch and Stuart Russell. ["Detecting Modularity in Deep Neural Networks"](https://arxiv.org/abs/2110.08058). arXiv preprint arXiv:2110.08058 (2021).
 
