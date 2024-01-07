@@ -1,7 +1,7 @@
 <img class="profile-photo" src="static/images/profile.png" />
 
 <div class="contact">
-    <small>he/they</small>
+    <small>they/he</small>
     <br />
     <i class="fas fa-envelope fa-2x"></i> shlomi &lt;AT&gt; bu &lt;DOT&gt; edu
     <br />
@@ -31,7 +31,7 @@ I'm interested in **Responsible AI**, particularly:
 1. The interaction between Computer Science and the Law
 1. Interpretable machine learning
 
-For the last years, I teach courses in [Responsible AI, Law, Ethics & Society](https://learn.responsibly.ai/) in various institutes including Boston University, Cornell Tech, Bocconi University, Tel Aviv University and the Technion. Our materials are available for faculty [here](https://teach.responsibly.ai/). **In August 2023, I taught a two-day [congressional workshop](https://gov.responsibly.ai) for US Congress staffers based on our course.**
+For the last years, I teach courses in [Responsible AI, Law, Ethics & Society](https://learn.responsibly.ai/) in various institutes including Boston University, Cornell Tech, Bocconi University, Tel Aviv University and the Technion. Our materials are available for faculty [here](https://teach.responsibly.ai/). In August 2023, I taught a two-day [congressional workshop](https://gov.responsibly.ai) for US Congress staffers based on our course.
 
 In summer 2022, I interened at Twitter Cortex where I leverged human-in-the-loop research to improve toxicity models. In 2020-2021, I was an Associated Researcher at the [Alexander von Humboldt Institute for Internet and Society (HIIG)](https://www.hiig.de/en/) in Berlin. In summer 2019, I did a research internship at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley, working on neural network interpretability. 
 
