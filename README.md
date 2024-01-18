@@ -1,7 +1,7 @@
 <img class="profile-photo" src="static/images/profile.png" />
 
 <div class="contact">
-    <small>he/they</small>
+    <small>they/he</small>
     <br />
     <i class="fas fa-envelope fa-2x"></i> shlomi &lt;AT&gt; bu &lt;DOT&gt; edu
     <br />
