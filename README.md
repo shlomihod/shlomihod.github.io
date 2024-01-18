@@ -24,14 +24,14 @@
 **During the 2023-2024 academic year, I'll be visiting Columbia University to work with Prof. [Rachel Cummings](https://rachelcummings.com).**
 
 
-I'm a fourth-year CS Ph.D. student at Boston University, being supervised by [Prof. Ran Canetti](http://www.bu.edu/cs/profiles/ran-canetti/).
+I'm a CS Ph.D. candidate at Boston University, being supervised by [Prof. Ran Canetti](http://www.bu.edu/cs/profiles/ran-canetti/).
 
 I'm interested in **Responsible AI**, particularly:
 1. Differentially private synthetic data for government data
 1. The interaction between Computer Science and the Law
 1. Interpretable machine learning
 
-For the last years, I teach courses in [Responsible AI, Law, Ethics & Society](https://learn.responsibly.ai/) in various institutes including Boston University, Cornell Tech, Bocconi University, Tel Aviv University and the Technion. Our materials are available for faculty [here](https://teach.responsibly.ai/). **In August 2023, I taught a two-day [congressional workshop](https://gov.responsibly.ai) for US Congress staffers based on our course.**
+For the last years, I teach courses in [Responsible AI, Law, Ethics & Society](https://learn.responsibly.ai/) in various institutes including Boston University, Cornell Tech, Bocconi University, Tel Aviv University and the Technion. Our materials are available for faculty [here](https://teach.responsibly.ai/). In August 2023, I taught a two-day [congressional workshop](https://gov.responsibly.ai) for US Congress staffers based on our course.
 
 In summer 2022, I interened at Twitter Cortex where I leverged human-in-the-loop research to improve toxicity models. In 2020-2021, I was an Associated Researcher at the [Alexander von Humboldt Institute for Internet and Society (HIIG)](https://www.hiig.de/en/) in Berlin. In summer 2019, I did a research internship at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley, working on neural network interpretability. 
 
