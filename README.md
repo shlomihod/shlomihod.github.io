@@ -23,9 +23,8 @@
 
 I'm a CS Ph.D. candidate at Boston University, under the supervision of [Prof. Ran Canetti](https://www.bu.edu/cs/profiles/ran-canetti/). Since September 2023, I have been visiting Columbia University to collaborate with [Prof. Rachel Cummings](https://rachelcummings.com).
 
-My long-term ambition is to develop both theoretical and practical cross-disciplinary tools to embed human values into ML systems.
 
-My current interests include:
+I'm working on Responsible AI, and my current interests include:
 
 1. Designing differentially private synthetic data for use in government and medical contexts
 1. The co-design of computer science and law, focusing on privacy and fairness
