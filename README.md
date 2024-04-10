@@ -49,7 +49,7 @@ Rachel Cummings, **SH**, Jayshree Sarathy, Marika Swanberg. "Attaxonomy: Unpacki
 
 \*Gavin Brown, **\*SH**, \*Iden Kalemaj. ["Performative Prediction in a Stateful World"](https://arxiv.org/abs/2011.03885). International Conference on Artificial Intelligence and Statistics - AISTATS (2022). Preliminary version at NeurIPS Workshop on Consequential Decision Making in Dynamic Environments, with contributed talk (2020).
 
-\*Stephen Casper, **\*SH**, \*Daniel Filan, Cody Wild, Andrew Critch and Stuart Russell. "[Graphical Clusterability and Local Specialization in Deep Neural Networks](https://openreview.net/pdf?id=HreeeJvkue9)". ICLR PAIR<sub>2</sub>Struct Workshop (2022).
+\*Stephen Casper, **\*SH**, \*Daniel Filan, Cody Wild, Andrew Critch and Stuart Russell. "[Graphical Clusterability and Local Specialization in Deep Neural Networks](https://openreview.net/pdf?id=HreeeJvkue9)". ICLR PAIR<sup>2</sup>Struct Workshop (2022).
 
 **\*SH**, \*Stephen Casper, \*Daniel Filan, Cody Wild, Andrew Critch and Stuart Russell. ["Detecting Modularity in Deep Neural Networks"](https://arxiv.org/abs/2110.08058). arXiv preprint arXiv:2110.08058 (2021).
 
