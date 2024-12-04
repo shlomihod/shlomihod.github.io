@@ -14,7 +14,7 @@
 "><span style="font-size: xx-large; font-family:'Passion One'">CV</span></a>
     <a href="https://github.com/shlomihod"><i class="fab fa-github fa-2x"></i></a>
     <br />
-    <small><a href="https://go.hod.xyz/office-hour">Book Office Hours</a></small>
+    <small><a href="https://calendly.com/shlomi-hod/office-hours">Book Office Hours</a></small>
     <br />
     <small><a href="https://www.admonymous.co/shlomi">(Anonymous) feedback welcome</a></small>
 </div>
@@ -33,7 +33,7 @@ My current research interests include:
 
 In February 2024, together with the Israeli Ministry of Health, we released a [differentially private synthetic dataset](https://birth.dataset.pub) of the National Live Birth Registry.
 
-For the last few years, I have taught courses in [Responsible AI, Law, Ethics & Society](https://learn.responsibly.ai/) at various institutions including Boston University, UC Berkeley, Cornell Tech, Bocconi University, Tel Aviv University and the Technion. Our materials are available for faculty [here](https://teach.responsibly.ai/). In August 2023, I taught a two-day [congressional](https://gov.responsibly.ai/23-congress/) [workshop](https://www.bu.edu/hic/2023/08/30/shlomi-hod-leads-congressional-workshop-on-responsible-ai/) for US Congress staffers based on our course.
+For the last few years, I have taught courses in [Responsible AI, Law, Ethics & Society](https://learn.responsibly.ai/) at various institutions including Boston University, UC Berkeley, Cornell Tech, Bocconi University, Tel Aviv University and the Technion. Our materials are available for faculty [here](https://teach.responsibly.ai/). In August 2023, I taught a two-day [congressional](https://www.bu.edu/hic/2023/08/30/shlomi-hod-leads-congressional-workshop-on-responsible-ai/) [workshop](https://gov.responsibly.ai/23-congress/) for US Congress staffers based on our course.
 
 During the summer of 2024, I was an [OpenDP](https://opendp.org) fellow at Harvard University. Between September 2023 and August 2024, I visited Columbia University to collaborate with Prof. Rachel Cummings. In the summer of 2022, I interned at Twitter Cortex where I leveraged human-in-the-loop research to improve toxicity models. In 2020-2021, I was an Associated Researcher at the [Alexander von Humboldt Institute for Internet and Society (HIIG)](https://www.hiig.de/en/) in Berlin. In the summer of 2019, I did a research internship at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley, working on neural network interpretability. 
 
