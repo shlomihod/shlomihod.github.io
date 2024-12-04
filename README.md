@@ -44,7 +44,7 @@ Before that, I was an algorithmic research team leader in cybersecurity.
 
 **SH**, Ran Canetti. "[Differentially Private Release of Israel's National Registry of Live Births](https://arxiv.org/abs/2405.00267)". To be appreaed in IEEE Symposium on Security and Privacy - IEEE S&P (2025).
 
-Rachel Cummings, **SH**, Jayshree Sarathy, Marika Swanberg. "[Attaxonomy: Unpacking Differential Privacy Guarantees Against Practical Adversaries](https://arxiv.org/abs/2405.01716)". Symposium on Foundations of Responsible Computing - FORC (2024) - non-archival track.
+Rachel Cummings, **SH**, Jayshree Sarathy, Marika Swanberg. "[Attaxonomy: Unpacking Differential Privacy Guarantees Against Practical Adversaries](https://arxiv.org/abs/2405.01716)". EuroS&P 2024 International Workshop on Privacy Engineering (IWPE 2024), and Symposium on Foundations of Responsible Computing (FORC 2024).
 
 **SH**, Karni Chagal-Feferkorn, Niva Elkin-Koren and Avigdor Gal. ["Data Science Meets Law: Learning Responsible AI Together"](https://cacm.acm.org/magazines/2022/2/258224-data-science-meets-law/fulltext/). Communications of the ACM (2022). Featured on the journal cover.
 
