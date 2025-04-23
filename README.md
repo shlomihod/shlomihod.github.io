@@ -42,6 +42,8 @@ Before that, I was an algorithmic research team leader in cybersecurity.
 
 ## Publications
 
+**SH**, Lucas Rosenblatt, Julia Stoyanovich. "[Do You Really Need Public Data? Surrogate Public Data for Differential Privacy on Tabular Data](https://arxiv.org/abs/2504.14368)". Preprint (2025).
+
 **SH**, Ran Canetti. "[Differentially Private Release of Israel's National Registry of Live Births](https://arxiv.org/abs/2405.00267)". To be appreaed in IEEE Symposium on Security and Privacy - IEEE S&P (2025).
 
 Rachel Cummings, **SH**, Jayshree Sarathy, Marika Swanberg. "[Attaxonomy: Unpacking Differential Privacy Guarantees Against Practical Adversaries](https://arxiv.org/abs/2405.01716)". EuroS&P 2024 International Workshop on Privacy Engineering (IWPE 2024), and Symposium on Foundations of Responsible Computing (FORC 2024).
@@ -52,6 +54,6 @@ Rachel Cummings, **SH**, Jayshree Sarathy, Marika Swanberg. "[Attaxonomy: Unpack
 
 \*Stephen Casper, **\*SH**, \*Daniel Filan, Cody Wild, Andrew Critch and Stuart Russell. "[Graphical Clusterability and Local Specialization in Deep Neural Networks](https://openreview.net/pdf?id=HreeeJvkue9)". ICLR PAIR<sup>2</sup>Struct Workshop (2022).
 
-**\*SH**, \*Stephen Casper, \*Daniel Filan, Cody Wild, Andrew Critch and Stuart Russell. ["Detecting Modularity in Deep Neural Networks"](https://arxiv.org/abs/2110.08058). arXiv preprint arXiv:2110.08058 (2021).
+**\*SH**, \*Stephen Casper, \*Daniel Filan, Cody Wild, Andrew Critch and Stuart Russell. ["Detecting Modularity in Deep Neural Networks"](https://arxiv.org/abs/2110.08058). Preprint (2021).
 
-\*Daniel Filan, \*Stephen Casper, **\*SH**, Cody Wild, Andrew Critch, and Stuart Russell. ["Clusterability in Neural Networks"](https://arxiv.org/abs/2103.03386). arXiv preprint arXiv:2103.03386 (2021).
+\*Daniel Filan, \*Stephen Casper, **\*SH**, Cody Wild, Andrew Critch, and Stuart Russell. ["Clusterability in Neural Networks"](https://arxiv.org/abs/2103.03386). Preprint (2021).
