@@ -3,7 +3,7 @@
 <div class="contact">
     <small>they/he</small>
     <br />
-    <i class="fas fa-envelope fa-2x"></i> shlomi &lt;AT&gt; bu &lt;DOT&gt; edu
+    <small><i class="fas fa-envelope fa-2x"></i> shlomi &lt;AT&gt; bu &lt;DOT&gt; edu</small>
     <br />
     <small><a href="https://bsky.app/profile/hodthoughts.bsky.social"><i class="fab fa-bluesky fa-2x"></i></a></small>
     <small><a href="https://twitter.com/hodthoughts"><i class="fab fa-twitter fa-2x"></i></a></small>
