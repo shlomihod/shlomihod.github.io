@@ -5,13 +5,13 @@
     <br />
     <i class="fas fa-envelope fa-2x"></i> shlomi &lt;AT&gt; bu &lt;DOT&gt; edu
     <br />
-    <a href="https://twitter.com/hodthoughts"><i class="fab fa-twitter fa-2x"></i>@hodthoughts</a>
+    <small><a href="https://bsky.app/profile/hodthoughts.bsky.social"><i class="fab fa-bluesky fa-2x"></i></a></small>
+    <small><a href="https://twitter.com/hodthoughts"><i class="fab fa-twitter fa-2x"></i></a></small>
     <br />
     <a href="https://www.semanticscholar.org/author/1557572573"><i class="ai ai-semantic-scholar-square ai-2x"></i></a>
     <a href="https://scholar.google.com/citations?user=s_WPt74AAAAJ"><i class="ai ai-google-scholar-square ai-2x"></i></a>
     <a href="https://www.linkedin.com/in/shlomi-hod/"><i class="fab fa-linkedin fa-2x"></i></a>
-	<a href="https://drive.google.com/file/d/1e43VAHjGMvHotb0iAwne4PmA2y9db-bK/view?usp=sharing
-"><span style="font-size: xx-large; font-family:'Passion One'">CV</span></a>
+	<!-- <a href="https://drive.google.com/file/d/1e43VAHjGMvHotb0iAwne4PmA2y9db-bK/view?usp=sharing"><span style="font-size: xx-large; font-family:'Passion One'">CV</span></a> -->
     <a href="https://github.com/shlomihod"><i class="fab fa-github fa-2x"></i></a>
     <br />
     <small><a href="https://calendly.com/shlomi-hod/office-hours">Book Office Hours</a></small>
@@ -21,7 +21,9 @@
 
 <br/>
 
-I'm a final year CS Ph.D. candidate at Boston University, under the supervision of Prof. Ran Canetti.
+
+
+I recently defended my CS Ph.D. at Boston University, under the supervision of Prof. Ran Canetti.
 I'm working on the **"last mile" of responsible computing**: the space where human values are manifested
 through concrete design choices, implementations, and deployment contexts of systems.
 
