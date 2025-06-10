@@ -44,11 +44,11 @@ Before that, I was an algorithmic research team leader in cybersecurity.
 
 ## Publications
 
-**SH**, Lucas Rosenblatt, Julia Stoyanovich. "[Do You Really Need Public Data? Surrogate Public Data for Differential Privacy on Tabular Data](https://arxiv.org/abs/2504.14368)". Preprint (2025).
+**SH**, Lucas Rosenblatt, Julia Stoyanovich. "[Do You Really Need Public Data? Surrogate Public Data for Differential Privacy on Tabular Data](https://arxiv.org/abs/2504.14368)". In ICML 2025 Workshop on Foundation Models for Structured Data (FMSD 2025); and 2025 Theory and Practice of Differential Privacy Workshop (TPDP 2025). 
 
-**SH**, Ran Canetti. "[Differentially Private Release of Israel's National Registry of Live Births](https://arxiv.org/abs/2405.00267)". To be appreaed in IEEE Symposium on Security and Privacy - IEEE S&P (2025).
+**SH**, Ran Canetti. "[Differentially Private Release of Israel's National Registry of Live Births](https://arxiv.org/abs/2405.00267)". In IEEE Symposium on Security and Privacy - IEEE S&P (2025).
 
-Rachel Cummings, **SH**, Jayshree Sarathy, Marika Swanberg. "[Attaxonomy: Unpacking Differential Privacy Guarantees Against Practical Adversaries](https://arxiv.org/abs/2405.01716)". EuroS&P 2024 International Workshop on Privacy Engineering (IWPE 2024), and Symposium on Foundations of Responsible Computing (FORC 2024).
+Rachel Cummings, **SH**, Jayshree Sarathy, Marika Swanberg. "[Attaxonomy: Unpacking Differential Privacy Guarantees Against Practical Adversaries](https://arxiv.org/abs/2405.01716)". EuroS&P 2024 International Workshop on Privacy Engineering (IWPE 2024); and Symposium on Foundations of Responsible Computing (FORC 2024).
 
 **SH**, Karni Chagal-Feferkorn, Niva Elkin-Koren and Avigdor Gal. ["Data Science Meets Law: Learning Responsible AI Together"](https://cacm.acm.org/magazines/2022/2/258224-data-science-meets-law/fulltext/). Communications of the ACM (2022). Featured on the journal cover.
 
