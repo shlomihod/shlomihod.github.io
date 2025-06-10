@@ -2,6 +2,9 @@
 # Created by https://www.gitignore.io/api/node,ruby,jekyll,visualstudio
 # Edit at https://www.gitignore.io/?templates=node,ruby,jekyll,visualstudio
 
+### MacOS ###
+.DS_Store
+
 ### Jekyll ###
 _site/
 .sass-cache/
