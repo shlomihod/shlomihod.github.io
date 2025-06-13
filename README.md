@@ -23,7 +23,7 @@
 
 
 
-I recently defended my CS Ph.D. at Boston University, under the supervision of Prof. Ran Canetti.
+I recently completed my CS Ph.D. at Boston University, under the supervision of Prof. Ran Canetti.
 I'm working on the **"last mile" of responsible computing**: the space where human values are manifested
 through concrete design choices, implementations, and deployment contexts of systems.
 
