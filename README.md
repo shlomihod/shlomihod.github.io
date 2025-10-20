@@ -23,14 +23,12 @@
 
 
 
-I recently completed my CS Ph.D. at Boston University, under the supervision of Prof. Ran Canetti.
-I'm working on the **"last mile" of responsible computing**: the space where human values are manifested
-through concrete design choices, implementations, and deployment contexts of systems.
+I'm a senior researcher at the [German Institute of Employment Research (IAB)](https://iab.de/en/home-2/) and an associate researcher at [Weizenbaum Institute](https://www.weizenbaum-institut.de/en/). I recently completed my CS Ph.D. at Boston University, under the supervision of Prof. Ran Canetti.
 
-My current research interests include:
+I'm working on **deployable responsible computing**. My current research interests include:
 
-1. Theory and practice of deploying differential privacy
-2. Technical tools for AI governance
+1. Technical tools for AI governance
+2. Toolbox of differential privacy for real-world deployment 
 3. Supporting evidence-based AI policymaking
 
 In February 2024, together with the Israeli Ministry of Health, we released a [differentially private synthetic dataset](https://birth.dataset.pub) of the National Live Birth Registry.
