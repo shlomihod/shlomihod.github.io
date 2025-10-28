@@ -89,21 +89,6 @@
             /* Pre-allocate space for hover effect */
             margin-left: 3px;
         }
-
-        /* Section Styling */
-        .section {
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-            margin-top: 24px;
-        }
-
-        .section-title {
-            font-size: 20px;
-            font-weight: 600;
-            color: #5e35b1;
-            margin-bottom: 8px;
-        }
         
         .link {
             position: relative;
@@ -246,65 +231,21 @@
         </div>
         
         <div class="links">
-            <div class="section">
-                <h2 class="section-title">🐣 DP Birth Dataset</h2>
-                <a href="https://arxiv.org/abs/2405.00267" class="link">
-                    <span class="link-title">Differentially Private Release of Israel's National Registry of Live Births (S&P 2025)</span>
-                </a>
-                <a href="https://birth.dataset.pub/" class="link">
-                    <span class="link-title">Birth Dataset</span>
-                </a>
-            </div>
-
-            <div class="section">
-                <h2 class="section-title">🚧 Barriers</h2>
-                <a href="https://arxiv.org/abs/2406.12103" class="link">
-                    <span class="link-title">Centering Policy and Practice: Research Gaps Around Usable Differential Privacy (TPS-ISA 2023)</span>
-                </a>
-                <a href="https://hdsr.mitpress.mit.edu/pub/sl9we8gh/release/3" class="link">
-                    <span class="link-title">Advancing Differential Privacy: Where We Are Now and Future Directions for Real-World Deployment (HDSR 2024)</span>
-                </a>
-                <a href="https://arxiv.org/abs/2412.13030" class="link">
-                    <span class="link-title">Are Data Experts Buying into Differentially Private Synthetic Data? Gathering Community Perspectives (arXiv 2024)</span>
-                </a>
-            </div>
-
-            <div class="section">
-                <h2 class="section-title">📊 Utility</h2>
-                <a href="https://arxiv.org/abs/2208.12700" class="link">
-                    <span class="link-title">Epistemic Parity: Reproducibility as an Evaluation Metric for Differential Privacy (ACM SIGMOD 2024)</span>
-                </a>
-                <a href="https://www.urban.org/research/publication/privacy-preserving-validation-server-version-2" class="link">
-                    <span class="link-title">A Privacy-Preserving Validation Server Version 2.0 (Urban Institute 2024)</span>
-                </a>
-            </div>
-
-            <div class="section">
-                <h2 class="section-title">🔒 Privacy</h2>
-                <a href="https://arxiv.org/abs/2405.01716" class="link">
-                    <span class="link-title">Attaxonomy: Unpacking Differential Privacy Guarantees Against Practical Adversaries (IWPE 2024)</span>
-                </a>
-                <a href="https://arxiv.org/abs/2407.02191" class="link">
-                    <span class="link-title">Attack-Aware Noise Calibration for Differential Privacy (NeurIPS 2024)</span>
-                </a>
-            </div>
-
-            <div class="section">
-                <h2 class="section-title">🧭 Navigating Design Choices</h2>
-                <a href="https://arxiv.org/abs/2504.14368" class="link">
-                    <span class="link-title">Do You Really Need Public Data? Surrogate Public Data for Differential Privacy on Tabular Data (NeurIPS 2025)</span>
-                </a>
-            </div>
-
-            <div class="section">
-                <h2 class="section-title">⚖️ Governance</h2>
-                <a href="https://journalprivacyconfidentiality.org/index.php/jpc/article/view/689" class="link">
-                    <span class="link-title">Differential Privacy in Practice: Expose your Epsilons! (Journal of Privacy and Confidentiality 2019)</span>
-                </a>
-                <a href="https://arxiv.org/abs/2509.13509" class="link">
-                    <span class="link-title">Practitioners' Perspectives on a Differential Privacy Deployment Registry (arXiv 2025)</span>
-                </a>
-            </div>
+            <a href="https://arxiv.org/abs/2405.00267" class="link">
+                <span class="link-title">📄 Differentially Private Release of Israel's National Registry of Live Births (S&P 2025)</span>
+            </a>
+            
+            <a href="https://birth.dataset.pub/" class="link">
+                <span class="link-title">📊 Birth Dataset</span>
+            </a>
+            
+            <a href="https://arxiv.org/abs/2504.14368" class="link">
+                <span class="link-title">📄 Do You Really Need Public Data? Surrogate Public Data for Differential Privacy on Tabular Data</span>
+            </a>
+            
+            <a href="https://arxiv.org/abs/2405.01716" class="link">
+                <span class="link-title">📄 ATTAXONOMY: Unpacking Differential Privacy Guarantees Against Practical Adversaries</span>
+            </a>
         </div>
     </div>
 </body>
