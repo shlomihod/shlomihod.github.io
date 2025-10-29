@@ -56,15 +56,26 @@
             text-decoration: none;
             font-weight: 500;
             position: relative;
-            background: linear-gradient(90deg, #7e57c2, #b39ddb);
+            background: linear-gradient(90deg, #7e57c2, #b39ddb, #7e57c2, #b39ddb);
+            background-size: 200% auto;
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             padding-bottom: 3px;
             /* Fix dimensions to prevent shifting */
             height: 24px;
             line-height: 24px;
+            animation: gradient-shift 3s ease infinite;
         }
-        
+
+        @keyframes gradient-shift {
+            0%, 100% {
+                background-position: 0% center;
+            }
+            50% {
+                background-position: 100% center;
+            }
+        }
+
         .author::after {
             content: '';
             position: absolute;
@@ -73,7 +84,7 @@
             bottom: 0;
             left: 0;
             background: linear-gradient(90deg, #9575cd, #7e57c2);
-            opacity: 0;
+            opacity: 0.5;
             transition: opacity 0.3s ease;
         }
         
