@@ -42,7 +42,7 @@ Before that, I was an algorithmic research team leader in cybersecurity.
 
 ## Publications
 
-**SH**, Lucas Rosenblatt, Julia Stoyanovich. "[Do You Really Need Public Data? Surrogate Public Data for Differential Privacy on Tabular Data](https://arxiv.org/abs/2504.14368)". In ICML 2025 Workshop on Foundation Models for Structured Data, with a spotlight talk (FMSD 2025); and 2025 Theory and Practice of Differential Privacy Workshop (TPDP 2025). 
+**SH***, Lucas Rosenblatt*, Julia Stoyanovich. "[Do You Really Need Public Data? Surrogate Public Data for Differential Privacy on Tabular Data](https://arxiv.org/abs/2504.14368)". In *Proceedings of Annual Conference on Neural Information Processing Systems* - Datasets and Benchmarks Track (NeurIPS 2025); and *ICML 2025 Workshop on Foundation Models for Structured Data*, with a spotlight talk (FMSD 2025). 
 
 **SH**, Ran Canetti. "[Differentially Private Release of Israel's National Registry of Live Births](https://arxiv.org/abs/2405.00267)". In IEEE Symposium on Security and Privacy - IEEE S&P (2025).
 
