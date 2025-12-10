@@ -21,7 +21,9 @@
 
 <br/>
 
-
+<div style="background-color: #fff8e1; border-left: 4px solid #ffc107; padding: 16px; margin-top: 16px; margin-bottom: 16px; border-radius: 4px;">
+  <strong>👀 New!</strong> Check out <a href="https://termswatch.io/" target="_blank" rel="noopener noreferrer"><strong>Terms Watch</strong></a> – a tool for tracking changes in terms of service and privacy policies of social media platforms and AI providers.
+</div>
 
 I'm a senior researcher at the [German Institute of Employment Research (IAB)](https://iab.de/en/home-2/) and an associate researcher at [Weizenbaum Institute](https://www.weizenbaum-institut.de/en/). I recently completed my CS Ph.D. at Boston University, under the supervision of Prof. Ran Canetti.
 
